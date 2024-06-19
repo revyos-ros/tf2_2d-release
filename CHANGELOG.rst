@@ -2,6 +2,13 @@
 Changelog for package tf2_2d
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.0 (2024-06-17)
+------------------
+* Exporting boost dependency (#7)
+  * Exporting Boost and Eigen dependencies
+* Tailor: Updating Jenkinsfile
+* Contributors: Tom Moore, locus-services
+
 1.0.1 (2023-03-03)
 ------------------
 * Port tf2_2d to ROS 2 (`#5 <https://github.com/locusrobotics/tf2_2d/issues/5>`_)
